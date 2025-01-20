@@ -2,7 +2,7 @@
 
 <img src=https://github.com/images/mona-whisper.gif>
 
-![Linkedin: aryalexa](https://img.shields.io/badge/-May_C-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayra-castrosqui/)
+[![Linkedin: aryalexa](https://img.shields.io/badge/-May_C-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayra-castrosqui/)](https://www.linkedin.com/in/mayra-castrosqui/)
 
 <p>
  <em> Software Engineer | Mathematician </em>
